@@ -1,26 +1,34 @@
-<div align="center">
+<h1 align="center">Hey, I'm Sterling Awuley Tetteh 👋</h1>
 
-# Sterling Awuley Tetteh
+<p align="center">
+  <em>Curious by default. Building to learn. Better than yesterday — always.</em>
+</p>
 
-**Self-taught · Self-driven · Still just getting started 🇬🇭**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sterling-awuley)
-[![Codeforces](https://img.shields.io/badge/Codeforces-lli2n-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/lli2n)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ko__jol-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ko_jol)
-
-</div>
-
----
-
-### 👨‍💻 About me
-
-I'm a self-taught developer from Accra, Ghana 🇬🇭, building my way through the stack one unfinished project at a time.
-
-> 🎯 **Fun fact:** I learn new tech by building random projects I'll probably never finish.
+<p align="center">
+  <a href="https://linkedin.com/in/sterling-awuley"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/lli2n"><img src="https://img.shields.io/badge/Codeforces-lli2n-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://leetcode.com/ko_jol"><img src="https://img.shields.io/badge/LeetCode-ko__jol-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🌱 Currently learning
+### 🧠 Who am I?
+
+I'm a self-taught developer from Accra, Ghana 🇬🇭 — and curiosity is basically my operating system.
+
+I don't wait to feel "ready." I explore, I build, I break things, and then I quietly google why they broke.
+My goal every single day is simple: be a better developer than I was yesterday.
+
+When I'm not working, I'm still learning. Free time? That's just bonus study time with snacks.
+
+> 💀 **Fun fact:** I have a graveyard of half-finished projects.
+> Each one taught me something. None of them have a README. We don't talk about the README.
+
+---
+
+### 🌱 Currently picking up
 
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
 ![Fastify](https://img.shields.io/badge/Fastify-black?style=flat&logo=fastify)
@@ -32,7 +40,7 @@ I'm a self-taught developer from Accra, Ghana 🇬🇭, building my way through 
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Things I actually know
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,8 +59,12 @@ I'm a self-taught developer from Accra, Ghana 🇬🇭, building my way through 
 
 ### 📊 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jkj&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jkj&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages" />
+</p>
 
 ---
 
-<sub>Made with 💻 from Accra, Ghana</sub>
+<p align="center">
+  <sub>🇬🇭 Built from Accra, Ghana · One unfinished project at a time</sub>
+</p>
